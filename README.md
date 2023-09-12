@@ -1,17 +1,32 @@
-<h1 align="left">Hey 👋</h1>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
 
-<p align="left"><strong>Benvenuti nel mio repository GitHub personale!</strong> Sono Stefano, laureato in informatica presso il Dipartimento di Informatica di Torino, e qui condividerò progetti, codice e risorse legate al mondo dell'informatica e della programmazione.</p>
+  h1, h2 {
+    text-transform: uppercase;
+  }
+</style>
+</head>
+<body>
 
-<h2 align="left">Cosa Troverai in Questo Repository</h2>
+<h1 align="left">HEY 👋</h1>
+
+<p align="left"><strong>BENVENUTI NEL MIO REPOSITORY GITHUB PERSONALE!</strong> SONO STEFANO, LAUREATO IN INFORMATICA PRESSO IL DIPARTIMENTO DI INFORMATICA DI TORINO, E QUI CONDIVIDERÒ PROGETTI, CODICE E RISORSE LEGATE AL MONDO DELL'INFORMATICA E DELLA PROGRAMMAZIONE.</p>
+
+<h2 align="left">COSA TROVERAI IN QUESTO REPOSITORY</h2>
 
 <p align="left">
-  - Progetti personali<br>
-  - Esercizi e progetti correlati ai miei studi universitari<br>
-  - Script e codice di utilità generale<br>
-  - Risorse didattiche e tutorial
+  - PROGETTI PERSONALI<br>
+  - ESERCIZI E PROGETTI CORRELATI AI MIEI STUDI UNIVERSITARI<br>
+  - SCRIPT E CODICE DI UTILITÀ GENERALE<br>
+  - RISORSE DIDATTICHE E TUTORIAL
 </p>
 
-<h2 align="left">Linguaggi di Programmazione</h2>
+<h2 align="left">LINGUAGGI DI PROGRAMMAZIONE</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
@@ -28,3 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
 </div>
+
+</body>
+</html>
