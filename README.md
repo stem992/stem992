@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">HEY 👋</h1>
 
 <p align="left"><strong>Benvenuti nel mio repository GitHub personale!</strong> Sono Stefano, laureato in informatica presso il Dipartimento di Informatica di Torino, e qui condividerò progetti, codice e risorse legate al mondo dell'informatica e della programmazione.</p>
 
-<h2 align="left">Cosa Troverai in Questo Repository</h2>
+<h2 align="left">COSA TROVERAI IN QUESTO REPOSITORY</h2>
 
 <p align="left">
   - Progetti personali<br>
@@ -11,7 +11,7 @@
   - Risorse didattiche e tutorial
 </p>
 
-<h2 align="left">Linguaggi di Programmazione</h2>
+<h2 align="left">LINGUAGGI</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
