@@ -1,6 +1,6 @@
 <h1 align="left">HEY 👋</h1>
 
-<p align="left"><strong>Benvenuti nel mio repository GitHub personale!</strong> Sono Stefano, laureato in informatica presso il Dipartimento di Informatica dell'Università degli Studi di Torino, e qui condividerò progetti, codice e risorse legate al mondo dell'informatica e della programmazione.</p>
+<p align="left"><strong>Benvenuti nel mio repository GitHub personale!</strong> Sono Stefano, laureato in Informatica presso il Dipartimento di Informatica dell'Università degli Studi di Torino</p>
 
 <h2 align="left">COSA TROVERAI IN QUESTO REPOSITORY</h2>
 
